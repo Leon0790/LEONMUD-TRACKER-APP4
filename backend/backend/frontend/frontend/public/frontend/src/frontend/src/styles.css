@@ -1,0 +1,26 @@
+body{
+margin:0;
+font-family:Arial;
+background:linear-gradient(#87CEEB,#001f3f);
+color:white;
+}
+
+table{
+background:white;
+color:black;
+border-collapse:collapse;
+}
+
+td,th{
+padding:6px;
+border:1px solid #ccc;
+}
+
+button{
+padding:8px 12px;
+margin:5px;
+background:#007BFF;
+color:white;
+border:none;
+cursor:pointer;
+}
